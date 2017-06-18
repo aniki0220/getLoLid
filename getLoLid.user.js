@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Get the id
-// @version      1.2
+// @version      1.3
 // @description  Just give me the fuking ID
 // @author       NDM
 // @include      https://lol.moa.tw/summoner/show/*
