@@ -15,6 +15,6 @@
             console.log(MoaObj.lol.acctId);
             var NDMid = document.createElement("p");
             NDMid.style.fontSize="40px";
-            NDMid.innerHTML= "±b¸¹ID: "+MoaObj.lol.acctId;
+            NDMid.innerHTML= "帳號ID: "+MoaObj.lol.acctId;
             document.getElementById("content-body").appendChild(NDMid);
         })();
