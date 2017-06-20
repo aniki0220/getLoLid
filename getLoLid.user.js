@@ -14,7 +14,7 @@
 (function() {
             console.log(MoaObj.lol.acctId);
             var NDMid = document.createElement("p");
-            NDMid.style.fontSize="40px";
+            NDMid.style.fontSize="45px";
             NDMid.innerHTML= "GGC ID: "+MoaObj.lol.acctId;
             document.getElementById("content-body").appendChild(NDMid);
         })();
